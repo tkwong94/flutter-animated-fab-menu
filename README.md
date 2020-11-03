@@ -2,6 +2,8 @@
 
 Simple animated floating action button that transform to menu (or any other widget)
 
+<img src="result.gif" width="200px">
+
 ## Getting Started
 
 ```
